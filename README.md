@@ -1,3 +1,10 @@
+1. Clone the repository.
+2. Hit this command: npm install
+3. Start the MongoDB server.
+4. Start Node.js server using this command: nodemon server
+5. Start the Angular dev server using the following command: ng server –open
+6. Go to this URL: http://localhost:4200/create
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
