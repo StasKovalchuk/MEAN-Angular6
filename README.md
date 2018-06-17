@@ -1,3 +1,5 @@
+## Steps To Follow Github Code
+
 1. Clone the repository.
 2. Hit this command: npm install
 3. Start the MongoDB server.
